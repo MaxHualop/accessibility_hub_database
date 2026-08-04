@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:16:46.553Z",
+  "generatedAt": "2026-08-04T16:17:08.933Z",
   "rows": [
     {
       "hoja": "lector_de_pantalla",
@@ -9,7 +9,7 @@
       "disenador": "María González",
       "estado_diseno": "Completo",
       "estado_dev": "Completo",
-      "estado_general": "Sin iniciar",
+      "estado_general": "En progreso",
       "origen": "Nuevo",
       "trimestre": "Q3"
     },
