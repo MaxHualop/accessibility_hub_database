@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-08-04T16:58:33.932Z",
+  "generatedAt": "2026-08-04T17:10:20.288Z",
   "rows": [
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": "Login",
       "flujo": "Transferencia entre cuentas propias",
       "vertical": "Transferencias",
       "so": "iOS",
@@ -15,6 +16,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Transferencia entre cuentas propias",
       "vertical": "Transferencias",
       "so": "Android",
@@ -27,6 +29,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Transferencia a terceros",
       "vertical": "Transferencias",
       "so": "Android",
@@ -39,6 +42,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Pago de servicios básicos",
       "vertical": "Pagos",
       "so": "iOS",
@@ -51,6 +55,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Pago con QR dinámico",
       "vertical": "Pagos",
       "so": "Android",
@@ -63,6 +68,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Solicitud de préstamo personal",
       "vertical": "Préstamos",
       "so": "Web",
@@ -75,6 +81,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Simulador de cuotas",
       "vertical": "Préstamos",
       "so": "iOS",
@@ -87,6 +94,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Apertura de fondo mutuo",
       "vertical": "Inversiones",
       "so": "Android",
@@ -99,6 +107,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Dashboard de portafolio",
       "vertical": "Inversiones",
       "so": "Web",
@@ -111,6 +120,7 @@
     },
     {
       "hoja": "lector_de_pantalla",
+      "Funcionalidad": null,
       "flujo": "Contratación de seguro",
       "vertical": "Seguros",
       "so": "iOS",
@@ -123,6 +133,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Inicio de sesión",
       "vertical": "Onboarding",
       "so": "iOS",
@@ -135,6 +146,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Inicio de sesión",
       "vertical": "Onboarding",
       "so": "Android",
@@ -147,6 +159,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Pantalla principal",
       "vertical": "Home",
       "so": "iOS",
@@ -159,6 +172,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Pantalla principal",
       "vertical": "Home",
       "so": "Android",
@@ -171,6 +185,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Transferencia rápida",
       "vertical": "Transferencias",
       "so": "iOS",
@@ -183,6 +198,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Registro de usuario",
       "vertical": "Onboarding",
       "so": "iOS",
@@ -195,6 +211,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Registro de usuario",
       "vertical": "Onboarding",
       "so": "Android",
@@ -207,6 +224,7 @@
     },
     {
       "hoja": "base_historica",
+      "Funcionalidad": null,
       "flujo": "Cambio de número",
       "vertical": "Onboarding",
       "so": "iOS",
