@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:00:39.436Z",
+  "generatedAt": "2026-08-05T00:01:08.669Z",
   "rows": [
     {
       "hoja": "lector_de_pantalla",
@@ -41,7 +41,7 @@
       "trimestre": "Q3"
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Creación de cuenta",
       "flujo": "Registro de usuario",
       "vertical": "-",
@@ -54,7 +54,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Login",
       "flujo": "Login",
       "vertical": "-",
@@ -67,7 +67,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Login",
       "flujo": "Cambio de número",
       "vertical": "-",
@@ -80,7 +80,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Login",
       "flujo": "Cambio de clave",
       "vertical": "-",
@@ -93,7 +93,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Home",
       "flujo": "Home",
       "vertical": "-",
@@ -106,7 +106,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Recargar celular",
       "flujo": "Recargar celular",
       "vertical": "-",
@@ -119,7 +119,7 @@
       "trimestre": null
     },
     {
-      "hoja": "overview",
+      "hoja": "base_historica",
       "Funcionalidad": "Pagos",
       "flujo": "Yapeo",
       "vertical": "-",
