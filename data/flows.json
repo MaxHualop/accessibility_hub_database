@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:46:42.739Z",
+  "generatedAt": "2026-08-05T00:48:45.461Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -161,6 +161,19 @@
       "hoja": "lector_de_pantalla",
       "Funcionalidad": "iO",
       "flujo": "Configuración de tarjeta",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Pago de tarjeta",
       "vertical": "Banking",
       "so": "Android",
       "disenador": "Daniela Herrera",
