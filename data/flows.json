@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T01:06:11.058Z",
+  "generatedAt": "2026-08-05T21:39:22.141Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -190,6 +190,19 @@
       "vertical": "Bolivia, Empresas & Real State",
       "so": "Android",
       "disenador": "Jose Ruberto",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Listo para desarrollo",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "Home",
+      "flujo": "Movimientos",
+      "vertical": "Core, Pagos y Leding",
+      "so": "Android",
+      "disenador": "Dayana De La Hoz",
       "estado_diseno": "Completo",
       "estado_dev": "Sin iniciar",
       "estado_general": "Listo para desarrollo",
