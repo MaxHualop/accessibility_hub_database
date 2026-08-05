@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:45:09.608Z",
+  "generatedAt": "2026-08-05T00:46:42.739Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -97,7 +97,7 @@
       "Funcionalidad": "Home",
       "flujo": "Nueva home",
       "vertical": "Core, Pagos y Leding",
-      "so": "iOS",
+      "so": "Android",
       "disenador": "Dayana De La Hoz",
       "estado_diseno": "Completo",
       "estado_dev": "En progreso",
