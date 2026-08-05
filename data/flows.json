@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:05:17.463Z",
+  "generatedAt": "2026-08-05T00:06:06.484Z",
   "rows": [
     {
       "hoja": "lector_de_pantalla",
@@ -41,7 +41,7 @@
       "trimestre": "Q3"
     },
     {
-      "hoja": "lector_de_pantalla",
+      "hoja": "base_historica",
       "Funcionalidad": "Creación de cuenta",
       "flujo": "Registro de usuario",
       "vertical": "-",
