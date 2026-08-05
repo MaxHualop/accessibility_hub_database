@@ -1,45 +1,6 @@
 {
-  "generatedAt": "2026-08-05T00:40:44.598Z",
+  "generatedAt": "2026-08-05T00:44:33.102Z",
   "rows": [
-    {
-      "hoja": "lector_de_pantalla",
-      "Funcionalidad": "Home",
-      "flujo": "Nueva home",
-      "vertical": "Core, Pagos y Leding",
-      "so": "iOS",
-      "disenador": "Dayana De La Hoz",
-      "estado_diseno": "Completo",
-      "estado_dev": "En progreso",
-      "estado_general": "En progreso",
-      "origen": "Nuevo",
-      "trimestre": "Q3"
-    },
-    {
-      "hoja": "lector_de_pantalla",
-      "Funcionalidad": "iO",
-      "flujo": "Home",
-      "vertical": "Banking",
-      "so": "Android",
-      "disenador": "Daniela Herrera",
-      "estado_diseno": "Completo",
-      "estado_dev": "Sin iniciar",
-      "estado_general": "En progreso",
-      "origen": "Nuevo",
-      "trimestre": "Q3"
-    },
-    {
-      "hoja": "lector_de_pantalla",
-      "Funcionalidad": "iO",
-      "flujo": "Datos sensibles de la tarjeta",
-      "vertical": "Banking",
-      "so": "Android",
-      "disenador": "Daniela Herrera",
-      "estado_diseno": "Completo",
-      "estado_dev": "Sin iniciar",
-      "estado_general": "En progreso",
-      "origen": "Nuevo",
-      "trimestre": "Q3"
-    },
     {
       "hoja": "base_historica",
       "Funcionalidad": "Creación de cuenta",
@@ -130,6 +91,84 @@
       "estado_general": "Completo",
       "origen": "Histórico",
       "trimestre": null
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "Home",
+      "flujo": "Nueva home",
+      "vertical": "Core, Pagos y Leding",
+      "so": "iOS",
+      "disenador": "Dayana De La Hoz",
+      "estado_diseno": "Completo",
+      "estado_dev": "En progreso",
+      "estado_general": "En progreso",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Home",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Datos sensibles de la tarjeta",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Movimientos",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Estado de cuenta histórico",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "iO",
+      "flujo": "Configuración de tarjeta",
+      "vertical": "Banking",
+      "so": "Android",
+      "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
     }
   ]
 }
