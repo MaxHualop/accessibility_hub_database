@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T00:48:45.461Z",
+  "generatedAt": "2026-08-05T00:50:49.223Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -177,6 +177,19 @@
       "vertical": "Banking",
       "so": "Android",
       "disenador": "Daniela Herrera",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "Funcionalidad": "Mi negocio",
+      "flujo": "Registrar mi negocio",
+      "vertical": "Bolivia, Empresas & Real State",
+      "so": "Android",
+      "disenador": "Jose Ruberto",
       "estado_diseno": "Completo",
       "estado_dev": "Sin iniciar",
       "estado_general": "Sin iniciar",
