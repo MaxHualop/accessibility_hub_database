@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-05T21:39:22.141Z",
+  "generatedAt": "2026-08-11T19:04:33.366Z",
   "rows": [
     {
       "hoja": "base_historica",
       "Funcionalidad": "Creación de cuenta",
       "flujo": "Registro de usuario",
       "vertical": "-",
+      "so": "Android",
+      "disenador": "Sin asignar",
+      "estado_diseno": null,
+      "estado_dev": null,
+      "estado_general": "Completo",
+      "origen": "Histórico",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "Funcionalidad": "Login",
+      "flujo": "Bienvenida",
+      "vertical": null,
       "so": "Android",
       "disenador": "Sin asignar",
       "estado_diseno": null,
