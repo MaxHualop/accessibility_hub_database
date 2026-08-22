@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:04:33.366Z",
+  "generatedAt": "2026-08-22T16:38:01.507Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -215,7 +215,7 @@
       "flujo": "Movimientos",
       "vertical": "Core, Pagos y Leding",
       "so": "Android",
-      "disenador": "Dayana De La Hoz",
+      "disenador": "Leydi Vigilio",
       "estado_diseno": "Completo",
       "estado_dev": "Sin iniciar",
       "estado_general": "Listo para desarrollo",
