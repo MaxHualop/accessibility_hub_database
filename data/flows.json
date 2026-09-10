@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:22:15.646Z",
+  "generatedAt": "2026-09-10T02:39:36.658Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -278,6 +278,32 @@
       "hoja": "base_historica",
       "funcionalidad": "Yapear servicios",
       "squad": "Pago de servicios",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Promos",
+      "squad": "Promos",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Créditos",
+      "squad": "Lending",
       "flujo": "Subhome",
       "so": "Sin iniciar",
       "disenador": "Sin asignar",
