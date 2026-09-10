@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:01:10.463Z",
+  "generatedAt": "2026-09-10T02:03:27.042Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -253,7 +253,7 @@
       "funcionalidad": "Pagos",
       "squad": "Pagos",
       "flujo": "Always on",
-      "so": "pendiente",
+      "so": "Sin iniciar",
       "disenador": "Sin asignar",
       "estado_diseno": "Sin iniciar",
       "estado_dev": "Sin iniciar",
