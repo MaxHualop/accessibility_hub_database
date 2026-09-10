@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:03:44.343Z",
+  "generatedAt": "2026-09-10T01:12:16.791Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -82,7 +82,7 @@
     {
       "hoja": "base_historica",
       "funcionalidad": "Recargar celular",
-      "squad": "Recarga de celular",
+      "squad": "Recargas",
       "flujo": "Recargar celular",
       "so": "iOS/Android",
       "disenador": "Sin asignar",
@@ -214,6 +214,32 @@
       "funcionalidad": "Home",
       "squad": "Core solutions",
       "flujo": "Movimientos",
+      "so": "iOS/Android",
+      "disenador": "Leydi Vigilio",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Listo para desarrollo",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "funcionalidad": "Login",
+      "squad": "Autenticación",
+      "flujo": "Olvido de correo",
+      "so": "iOS/Android",
+      "disenador": "Leydi Vigilio",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Listo para desarrollo",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "funcionalidad": "Login",
+      "squad": "Autenticación",
+      "flujo": "Onboarding",
       "so": "iOS/Android",
       "disenador": "Leydi Vigilio",
       "estado_diseno": "Completo",
