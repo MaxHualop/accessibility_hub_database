@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:59:11.660Z",
+  "generatedAt": "2026-09-10T02:01:10.463Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -253,12 +253,12 @@
       "funcionalidad": "Pagos",
       "squad": "Pagos",
       "flujo": "Always on",
-      "so": null,
-      "disenador": null,
-      "estado_diseno": null,
-      "estado_dev": null,
-      "estado_general": null,
-      "origen": null,
+      "so": "pendiente",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
       "trimestre": null
     }
   ]
