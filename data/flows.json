@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:15:37.764Z",
+  "generatedAt": "2026-09-10T02:22:15.646Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -266,6 +266,19 @@
       "funcionalidad": "Aprobar compras",
       "squad": "Checkout",
       "flujo": "Flag de compras",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Yapear servicios",
+      "squad": "Pago de servicios",
+      "flujo": "Subhome",
       "so": "Sin iniciar",
       "disenador": "Sin asignar",
       "estado_diseno": "Sin iniciar",
