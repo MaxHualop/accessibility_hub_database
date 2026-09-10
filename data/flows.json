@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:39:36.658Z",
+  "generatedAt": "2026-09-10T14:09:25.646Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -199,7 +199,7 @@
     {
       "hoja": "lector_de_pantalla",
       "funcionalidad": "Mi negocio",
-      "squad": "Empresas",
+      "squad": "Micronegocios",
       "flujo": "Registrar mi negocio",
       "so": "iOS/Android",
       "disenador": "Jose Ruberto",
