@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:09:25.646Z",
+  "generatedAt": "2026-09-13T19:53:50.835Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -305,6 +305,58 @@
       "funcionalidad": "Créditos",
       "squad": "Lending",
       "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Gaming",
+      "squad": "Gaming",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Dólares",
+      "squad": "Tipo de cambio",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Remesas",
+      "squad": "Outbounds",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "SOAT",
+      "squad": "Seguros",
+      "flujo": "Subhome SOAT",
       "so": "Sin iniciar",
       "disenador": "Sin asignar",
       "estado_diseno": "Sin iniciar",
