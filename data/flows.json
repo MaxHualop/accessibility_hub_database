@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:59:10.219Z",
+  "generatedAt": "2026-09-15T01:47:19.429Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -382,6 +382,19 @@
       "hoja": "base_historica",
       "funcionalidad": "Tienda",
       "squad": "One commerce",
+      "flujo": "Subhome",
+      "so": "Sin iniciar",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Entradas",
+      "squad": "Entradas",
       "flujo": "Subhome",
       "so": "Sin iniciar",
       "disenador": "Sin asignar",
