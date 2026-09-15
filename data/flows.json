@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:22:39.516Z",
+  "generatedAt": "2026-09-15T02:32:05.575Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -201,6 +201,19 @@
       "funcionalidad": "Mi negocio",
       "squad": "Micronegocios",
       "flujo": "Registrar mi negocio",
+      "so": "iOS/Android",
+      "disenador": "Jose Ruberto",
+      "estado_diseno": "Completo",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Listo para desarrollo",
+      "origen": "Nuevo",
+      "trimestre": "Q3"
+    },
+    {
+      "hoja": "lector_de_pantalla",
+      "funcionalidad": "Mi negocio",
+      "squad": "Micronegocios",
+      "flujo": "Subhome",
       "so": "iOS/Android",
       "disenador": "Jose Ruberto",
       "estado_diseno": "Completo",
