@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:50:08.950Z",
+  "generatedAt": "2026-09-28T02:38:29.679Z",
   "rows": [
     {
       "hoja": "base_historica",
@@ -462,6 +462,32 @@
       "squad": "Core solutions",
       "flujo": "Notificaciones",
       "so": "iOS/Android",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Buen provecho",
+      "squad": "Innovación social",
+      "flujo": "Subhome",
+      "so": "Webview",
+      "disenador": "Sin asignar",
+      "estado_diseno": "Sin iniciar",
+      "estado_dev": "Sin iniciar",
+      "estado_general": "Sin iniciar",
+      "origen": "Sin iniciar",
+      "trimestre": null
+    },
+    {
+      "hoja": "base_historica",
+      "funcionalidad": "Voto informado",
+      "squad": "Innovación social",
+      "flujo": "Subhome",
+      "so": "Webview",
       "disenador": "Sin asignar",
       "estado_diseno": "Sin iniciar",
       "estado_dev": "Sin iniciar",
